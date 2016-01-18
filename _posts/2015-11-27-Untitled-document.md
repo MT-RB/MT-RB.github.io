@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Test post
 layout: post
 author: max.buckland
 permalink: /untitled-document/
