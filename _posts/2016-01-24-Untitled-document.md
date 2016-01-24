@@ -1,5 +1,5 @@
 ---
-title: 22nd IT HOMEWORK
+title: 22nd January Homework
 layout: post
 author: max.buckland
 permalink: /untitled-document/
