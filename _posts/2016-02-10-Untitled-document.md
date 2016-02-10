@@ -12,5 +12,5 @@ In this week's lesson we started off the lesson by watching a video. This specif
 
 We then were sent off into groups of three to create a list of 10+ rules for usage of social media. However rather than saying what NOT  to do we were prompted/ advised to say what TO do instead. Some of my group's ideas included : Try to be helpful, Try not to get into social media 'wars’, Be careful about what you post, and finally, make sure to have fun (disclaimer: If your idea of fun is flaming people or trolling them I cannot be legally held responsible for your actions). 
 
-	I think that the sort of 'moral' of the story if you will, is that rather than tweeting our lives away we should be outside, with our friends enjoying life and living our own lives, not other people’s.
+I think that the sort of 'moral' of the story if you will, is that rather than tweeting our lives away we should be outside, with our friends enjoying life and living our own lives, not other people’s.
 
