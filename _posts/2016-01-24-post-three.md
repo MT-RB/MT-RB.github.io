@@ -2,7 +2,7 @@
 title: 22nd January Homework
 layout: post
 author: max.buckland
-permalink: /untitled-document/
+permalink: /post-three/
 source-id: 1UJ10OM3uVAyqNp1qsmdnC1xIQwujOF20glc3tF8jpP4
 published: true
 ---
