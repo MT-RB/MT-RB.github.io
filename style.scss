@@ -16,7 +16,13 @@
 html {
   font-size: 100%;
 }
+table {
+    border-collapse: collapse;
+}
 
+table, th, td {
+    border: 1px solid black;
+}
 body {
 	background-image: url(https://letsplaymath.files.wordpress.com/2015/02/ball-travels-around-impossible-triangle.gif?w=648&h=555);
   font: 18px/1.4 oblique;
