@@ -38,6 +38,7 @@ html {
 
 body {
 
+	
 	background-image: url(http://24.media.tumblr.com/tumblr_m49gg8jfbR1qhp1oso1_500.gif);
 
   font: 18px/1.4 $helvetica;
@@ -58,6 +59,15 @@ body {
 
   width: 100%;
 
+}
+
+
+#rcorners4 {
+    border-radius: 15px 50px 30px 5px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
 }
 
 
