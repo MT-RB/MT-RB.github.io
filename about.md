@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm just your average I.T student with a blog to document my progress.
 
 ### More Information
 
