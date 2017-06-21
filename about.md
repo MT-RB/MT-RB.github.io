@@ -8,7 +8,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This website is going to be my space to put all of my thoughts and opinions on my I.T work and classes.
 
 ### Contact me
 
